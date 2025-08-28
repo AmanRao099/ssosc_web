@@ -23,13 +23,13 @@ const teamMembers = [
     LInk: "https://github.com/amanrao099",
     imageUrl: "/team/Aman.jpg",
   },
- {
-    Role: "Community Lead",
-    Name: "Praneesh ",
-    Email: "praneeshshetty2005@gmail.com",
-    Number: 7259639260,
-    LInk: "https://devpraneesh.vercel.app",
-    imageUrl: "/team/praneesh.jpg",
+  {
+    Role: "ML Lead",
+    Name: "Soumya Manjunath Naik ",
+    Email: "naiksanjana2423@gmail.com",
+    Number: 9916794022,
+    LInk: "https://github.com/Soumya-M-Naik",
+    imageUrl: "/team/soumya.jpg",
   },
   {
     Role: "Design Lead",
@@ -39,10 +39,10 @@ const teamMembers = [
   },
   {
     Role: "Documentation Lead",
-    Name: "K Dhyana Samaga ",
-    Email: "kdhyanasamaga@gmail.com",
-    LInk: "https://www.github.com/KDhyanaSamaga",
-    imageUrl: "/team/K Dhyana.jpg",
+    Name: "Pranaw Kumar",
+    Email: "pranawkk0@gmail.com",
+    LInk: "https://www.github.com/itspranaw",
+    imageUrl: "/team/Pranaw.jpg",
   },
   {
     Role: "Media Lead",
@@ -52,13 +52,13 @@ const teamMembers = [
     LInk: "https://github.com/skshastry",
     imageUrl: "/team/K Abhijna Shetty.webp",
   },
-{
-    Role: "ML Lead",
-    Name: "Suraj BM ",
-    Email: "suraj.b.melligeri@gmail.com",
-    Number: 9916794022,
-    LInk: "https://github.com/suraj-bm",
-    imageUrl: "/team/Suraj BM.jpg",
+  {
+    Role: "Community Lead",
+    Name: "Nuhayd Ameen Shaik",
+    Email: "nuhayd.m.k@gmail.com",
+    Number: 8904445302,
+    LInk: "https://github.com/Nuhayd12",
+    imageUrl: "/team/Nuhayd.jpg",
   },
   {
     Role: "Event Lead",
@@ -75,7 +75,14 @@ const teamMembers = [
     Email: "mohammadifwan10@gmail.com",
     Number: 6362732976,
     LInk: "",
-    imageUrl: "/team/ifwan.jpg",
+  },
+  {
+    Role: "Technical Lead",
+    Name: "Vinayak V M",
+    Email: "vinayakavm22@gmail.com",
+    Number: 9632843275,
+    LInk: "",
+    imageUrl: "/team/Vinayak.jpg",
   },
 ];
 const Events = [
